@@ -13,7 +13,7 @@ jobs:
     # All run steps will execute from the "script" folder
     defaults:
       run:
-        working-directory: JF0PGV_Modern_infrastruktura
+        working-directory: .
 
     steps:
       - name: Check out code
